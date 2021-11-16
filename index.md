@@ -5,4 +5,4 @@ in here you will find materials for old machines used on laboratories. feel free
 
 # the first step is to visit our commercial brand section
 
-Let's move to ([BRANDS)](https://victage.github.io/brands.md)
+Let's move to ([BRANDS)](https://victage.github.io/brands)
