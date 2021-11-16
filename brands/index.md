@@ -2,7 +2,7 @@
 
 here you are going to find the collection of brands which devices we have worked with.
 
-* [Waters Corp](https://victage.github.io/brands/waters/index.md)
+* [Waters Corp](https://victage.github.io/brands/waters/)
 * [Luthor Corp](https://victage.github.io/brands/waters)
 * [Umbrella Corp](https://victage.github.io/brands/waters)
 * [Nodevices Corp](https://victage.github.io/brands/waters)
